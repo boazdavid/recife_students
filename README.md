@@ -32,8 +32,9 @@ select * from estudantes;
 
 ## init DB
 `python init_db.py`
+Assumption: `students_enrolled.csv` contains all matriculas. the first field, `rec_no` is unique.
 
-reads file `students_enrolled_2018_1023.csv` and load the data to MYSQL server in database `estudantes`. It creates 2 tables: `estudantes`, `processed_estudantes`.
+This program reads `students_enrolled.csv` and load the data to MYSQL server in database `estudantes`. It creates 2 tables: `estudantes`, `processed_estudantes`.
 
 ## train_cluster
 `python train_cluster.py`
@@ -49,7 +50,9 @@ m_name
 
 This is done in 2 steps:
 ### Active training
-If there is no `settings` and `training.json` files - it will starts a series of questions. In each question, two examples (student records) are displayed. The user has to respond `y`- it is a duplicate, or `n` no. As more training examples - the better. If you want to retrain again, just remove (or rename) the files.
+If there is no `settings` and `training.json` files - an active training starts. The system will starts a series of questions. In each question, two examples (student records) are displayed. The user has to respond `y`- it is a duplicate, `n` for no, and `u` if you are not sure. As more training examples - the better. For the program to work correctly, there is a need for at least 10 duplicate pairs, and 10 non duplicates. When done, type `f` (finished).
+In the end of the active training, the two files above will be created.
+If you want to retrain again, just remove (or rename) the files.
 Note, a new training is required in the case you rename fields, or add change the compared fields.
 
 ### Dedupe
