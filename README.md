@@ -1,5 +1,9 @@
 # recife-students
 
+Program to find duplicate students records.
+Idea from https://github.com/dedupeio/dedupe-examples/tree/master/csv_example.
+
+
 ## Setup
 anaconda
 https://www.anaconda.com/download/#windows
