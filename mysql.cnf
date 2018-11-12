@@ -1,0 +1,5 @@
+[client]
+user = root
+password = Netanya1
+default-character-set=utf8
+loose-local-infile=1

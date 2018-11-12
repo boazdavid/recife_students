@@ -1,0 +1,518 @@
+18772471 13304216 0.9381122589111328
+         ('vivia cristina xavier da silva', '20/02/2011', 'fem', 'ana carla xavier da silva', 'eduardo francisco da silva')
+         ('vivia cristina xavier da silva', '20/01/2011', 'fem', 'ana carla xavier da silva', 'eduardo francisco da silva')
+18772471 13304216 0.9381122589111328
+         ('vivia cristina xavier da silva', '20/02/2011', 'fem', 'ana carla xavier da silva', 'eduardo francisco da silva')
+         ('vivia cristina xavier da silva', '20/01/2011', 'fem', 'ana carla xavier da silva', 'eduardo francisco da silva')
+13008951 08327262 0.7212113738059998
+         ('pedro henrique da silva pereira', '03/07/2008', 'masc', 'milca oliveira da silva', 'alexandre pessoa pereira')
+         ('pedro henrique da silva pereira', '24/03/2008', 'masc', 'joseane vicente da silva', 'wilson gomes pereira')
+17007259 17111447 0.9034096002578735
+         ('luiz fernando da silva', '22/10/2012', 'masc', 'roseane maria da silva', None)
+         ('luiz fernando da silva', '25/10/2012', 'masc', 'mikaele fernanda de oliveira da silva', None)
+18147089 18630863 0.99104893
+         ('luan vinicius pereira da costa', '15/03/2013', 'masc', 'cintia francisca de lourdes', None)
+         ('luan vinicius pereira da costa', '15/03/2013', 'masc', 'cintia francisca de lourdes', 'fernando pereira da costa')
+16726839 14346885 0.9134287
+         ('jenifer julia barbosa da silva', '04/04/2012', 'fem', 'marilene maria da silva', None)
+         ('jennyfer julya barbosa da silva', '04/07/2012', 'fem', 'fabiana maria da silva', 'alexandre barbosa da silva')
+17615445 18700284 0.7148264
+         ('tayna vitoria do nascimento rocha', '28/06/2012', 'fem', 'talita nunes do nascimento da silva', 'enok da rocha santana')
+         ('tayna vitoria do nascimento rocha', '28/08/2012', 'fem', 'talita nunes do nascimento', 'enok da rocha santana')
+18154751 18710751 0.9432769
+         ('sarah isabela fragoso de paiva', '04/08/2011', 'fem', 'dayana greicy silva fragoso de paiva', 'dayana greicy silva fragoso de paiva')
+         ('sarah isabela fragoso de paiva', '04/08/2011', 'fem', 'dayara pereira gomes de lira', 'clayson leandro wanderley de paiva')
+14294150 14029340 0.8542571663856506
+         ('luiz henrique da silva', '05/06/2009', 'masc', 'mayara maria da silva', 'luiz carlos da silva')
+         ('caio henrique da silva', '05/05/2009', 'masc', 'sulamita da silva', None)
+13136100 13136143 0.9864028
+         ('maria clara moura pinto', '05/07/2008', 'fem', 'marcela maria soares', 'romualdo moura pinto')
+         ('maria lara moura pinto', '05/07/2008', 'fem', 'marcela maria soares', 'romualdo moura pinto')
+13143344 18712142 0.93270165
+         ('karlos eduardo guedes da silva filho', '01/03/2008', 'masc', 'patricia pereira da silva', 'karlos eduardo guedes da silva')
+         ('karlos eduardo guedes da silva filho', '01/03/2008', 'masc', 'karlos eduardo guedes da silva', 'patricia oereira da silva')
+12890375 15044971 0.9875463843345642
+         ('rafael cicero da silva leite', '26/09/2006', 'masc', 'maria do carmo julio da silva', 'antonio leite da silva')
+         ('raffael cicero da silva leite', '26/09/2006', 'masc', 'maria do carmo julio da silva', None)
+08009627 11530090 0.7274311780929565
+         ('pedro henrique da silva', '08/02/2006', 'masc', 'ana paula borges da silva', 'claudivan francisco da silva')
+         ('pedro henrique da silva', '16/08/2006', 'masc', 'marcela severina da silva', 'ernani firmino da silva neto')
+13129848 09015922 0.7422289252281189
+         ('caua henrique da silva', '05/01/2008', 'masc', 'edjane tenorio da silva', None)
+         ('caue henrique da silva', '05/06/2008', 'masc', 'geisiane da silva santos', None)
+14248611 13196014 0.8398885130882263
+         ('kauan henrique da silva', '20/07/2008', 'masc', 'ana carla da silva', 'gilberto henrique da silva')
+         ('naua henrique da silva', '19/07/2008', 'masc', 'rosinete francisca da silva', None)
+18634834 17062403 0.8010289072990417
+         ('pedro henrique da silva', '01/02/2010', 'masc', 'michele inccencio da silva', 'danilo pedro da silva')
+         ('pedro henrique da silva', '21/12/2009', 'masc', 'gizele pereira da silva', 'jefferson henrique felipe')
+09049266 09049282 0.98583835
+         ('davi santos de moura', '15/02/2006', 'masc', 'liliana maria dos santos', None)
+         ('david santos de moura', '15/02/2006', 'masc', 'liliana maria dos santos', None)
+17742684 16089030 0.7896283268928528
+         ('guilherme gomes da silva', '02/07/2011', 'masc', 'marcela gomes da silva', 'ailton jose da silva')
+         ('guilherme gomes da silva', '02/03/2011', 'masc', 'regina cely pereira de melo', None)
+16611900 14099411 0.8214027881622314
+         ('ingrid vitoria da silva', '01/09/2011', 'fem', 'angelica clemente da silva', 'izaias pedro da silva')
+         ('ingrid vitoria da silva', '15/01/2011', 'fem', 'ivani inacio da silva', 'ivandro pedro da silva')
+12902713 18751440 0.9893708
+         ('ewerton soares damarante', '02/06/2007', 'masc', 'gleicy soares da costa damarante', 'edson ferreira damarante')
+         ('ewerton soares damarante', '02/06/2007', 'masc', 'gleicy soares da costa damrante', 'edson ferreira damarante')
+15633985 09016511 0.7273102402687073
+         ('maria eduarda da silva', '13/12/2007', 'fem', 'luzitana maria da silva', None)
+         ('maria eduarda da silva', '12/09/2007', 'fem', 'valdisia maria da silva', 'cleyton jose da silva guedes')
+09279539 11589299 0.7099900841712952
+         ('maria eduarda da silva', '25/10/2004', 'fem', 'edna emilia da silva', None)
+         ('maria eduarda da silva', '10/09/2004', 'fem', 'adeilda marques da silva', 'jose rosendo da silva')
+09261028 07024096 0.8802880644798279
+         ('maria eduarda da silva', '20/05/2005', 'fem', 'andrea virginia da silva', None)
+         ('maria eduarda da silva', '18/05/2005', 'fem', 'rosineide da silva', 'marcos roberto da silva')
+06265081 18043402 0.9894308149814606
+         ('rafaelly ingrid soares da silva', '13/02/2004', 'fem', 'laudenise soares da silva', 'ricardo antonio da silva')
+         ('rafaely ingrid soares da silva', '13/02/2004', 'fem', 'laudenise soares da silva', None)
+06265081 18043402 0.9894308149814606
+         ('rafaelly ingrid soares da silva', '13/02/2004', 'fem', 'laudenise soares da silva', 'ricardo antonio da silva')
+         ('rafaely ingrid soares da silva', '13/02/2004', 'fem', 'laudenise soares da silva', None)
+13129295 18694160 0.8824060261249542
+         ('ana beatriz ferreira da silva', '07/07/2007', 'fem', 'marilene ferreira da silva', 'ricardo jose da silva')
+         ('ana beatriz ferreira da silva', '24/07/2007', 'fem', 'maria goretti ferreira de lima', 'martinho ribeiro da silva neto')
+13129295 18694160 0.8824060261249542
+         ('ana beatriz ferreira da silva', '07/07/2007', 'fem', 'marilene ferreira da silva', 'ricardo jose da silva')
+         ('ana beatriz ferreira da silva', '24/07/2007', 'fem', 'maria goretti ferreira de lima', 'martinho ribeiro da silva neto')
+16076575 18745652 0.7146479
+         ('laura beatriz ferreira da silva', '11/11/2014', 'fem', 'steffany graff ferreira da silva', None)
+         ('laura beatriz ferreira da silva', '11/01/2014', 'fem', 'nathalia costa gomes da silva', None)
+17034680 17040680 0.98875344
+         ('ruan muller ramos de lima', '29/05/2011', 'masc', 'suelaine guimaraes ramos', None)
+         ('ryan muller ramos de lima', '29/05/2011', 'masc', 'suelaine guimaraes ramos', None)
+18655394 18151299 0.8979448
+         ('elisandra rebeca ramos farias', '31/03/2014', 'fem', 'elisangela gomes farias', 'ricardo da silva ramos')
+         ('elisandra rebeca ramos farias', '03/03/2014', 'fem', 'elisangela gomes farias', None)
+13312650 18614469 0.99104893
+         ('julia vitoria santana santos', '28/12/2010', 'fem', 'juliana maria de santana', 'leandro dos santos batista')
+         ('julia vitoria santana santos', '28/12/2010', 'fem', 'juliana maria de santana', 'leandro dos santos batista')
+16731344 18766854 0.9879313
+         ('steffanny vitoria de souza felix', '08/05/2012', 'fem', 'taciana maria de souza', 'macleiton felix da silva')
+         ('stefanny vitoria de souza felix', '08/05/2012', 'fem', 'taciana maria de souza', 'macleiton felix da silva')
+12910236 07028237 0.7387015223503113
+         ('paulo henrique gomes da silva', '03/02/2006', 'masc', 'valquiria maria da silva', None)
+         ('paulo henrique gomes da silva', '15/03/2006', 'masc', 'adineide francisca da silva', 'paulo cesar gomes da silva')
+18629520 18629563 0.9882543
+         ('luisa araujo de moura', '23/01/2014', 'fem', 'priscila alves de araujo moura', 'nehemias florencio de moura neto')
+         ('laisa araujo de moura', '23/01/2014', 'fem', 'priscila alves de araujo moura', 'nehemias florencio de moura neto')
+17062055 17064538 0.9838959
+         ('reynan renato firmino sousa paulo', '31/10/2012', 'masc', 'paula camila firmino dos santos xavier', 'renato sousa paulo')
+         ('ryan renato firmino sousa paulo', '31/10/2012', 'masc', 'paula camila firmino dos santos xavier', 'renato sousa paulo')
+10135510 09216081 0.7804870009422302
+         ('maria eduarda fernandes da silva', '09/12/2004', 'fem', 'ana veruska fernandes dos santos', 'eduardo jose da silva')
+         ('maria eduarda fernandes da silva', '31/08/2004', 'fem', 'maria cicera fernandes das neves', 'jose vanderley da silva')
+10280030 12840360 0.8937504887580872
+         ('joao victor da silva', '26/07/2007', 'masc', 'danielle maria da silva', 'joao abilio da silva')
+         ('joao victor da silva', '23/07/2007', 'masc', 'alba da silva', 'josivaldo jose da silva')
+16006496 16814525 0.8625542
+         ('kauan henrique de souza silva', '25/08/2011', 'masc', 'ana carolina de souza', 'jose rafael melo da silva')
+         ('luan henrique de souza silva', '29/08/2011', 'masc', 'luziane pereira de souza silva', 'lenivaldo jovino da silva junior')
+16819667 10014357 0.7622859477996826
+         ('maria eduarda ferreira da silva', '27/04/2006', 'fem', 'marilia augusta de paula ferreira', 'carlos eduardo crispiniano da silva')
+         ('maria eduarda ferreira da silva', '13/04/2006', 'fem', 'patricia maria ferreira', 'eduardo firmino da silva')
+16014219 15802906 0.7485066
+         ('matheus carlos da silva', '23/11/2010', 'masc', 'danielle jose da conceicao da silva', None)
+         ('matheus carlos da silva', '11/06/2010', 'masc', 'aliane gomes da silva', 'jose carlos da silva')
+18061281 98442635 0.99104893
+         ('monica de moura da silva', '25/06/1991', 'fem', 'terezinha helena de moura', 'nao registrado')
+         ('monica de moura da silva', '25/06/1991', 'fem', 'terezinha helena de moura', None)
+18671039 15628779 0.97198385
+         ('kaio higor de matos almeida', '29/12/2008', 'masc', 'silmara de matos', None)
+         ('kaio higor de matos almeida', '29/12/2008', 'fem', 'silmara de matos leal', 'valmir almeida bezerra filho')
+09014969 17731798 0.9856339
+         ('luiz fernando marques da silva', '05/06/2008', 'masc', 'sumika marques da silva', 'luiz fernando ferreira da silva')
+         ('luiz fernando marques da silva', '05/05/2008', 'masc', 'sumika marques da silva', 'luiz fernando ferreira da silva')
+12945382 16660048 0.7897045612335205
+         ('maria eduarda barbosa da silva', '20/05/2010', 'fem', 'maria jose da silva', 'fernando barbosa da costa')
+         ('maria eduarda barbosa da silva', '06/05/2010', 'fem', 'paola maria da silva', 'marcelo barbosa da silva')
+16601220 16601254 0.96491456
+         ('eryka ramos da silva', '04/01/2013', 'fem', 'jessica ramos da silva', None)
+         ('eryky ramos da silva', '04/01/2013', 'masc', 'jessica ramos da silva', None)
+11641860 08011532 0.7519340515136719
+         ('beatriz rodrigues da silva', '30/03/2006', 'fem', 'lindomar maria da silva', 'elzir rodrigues da silva')
+         ('beatriz rodrigues da silva', '26/03/2006', 'fem', 'alcioneide rodrigues de araujo', 'enivaldo rodrigues da silva')
+07107781 14154447 0.9854553
+         ('julia santana dos prazeres', '03/03/2006', 'fem', 'edjane freitas de santana', 'joao batista silva dos prazeres')
+         ('juliane santana dos prazeres', '03/03/2006', 'fem', 'edjane freitas de santana', 'joao batista silva dos prazeres')
+18801781 13269836 0.9887312650680542
+         ('julia gabriella da silva', '17/12/2010', 'fem', 'cristiana maria da silva', None)
+         ('julia gabriella da silva', '17/12/2010', 'fem', 'cristina maria da silva', None)
+18092683 07158637 0.9875464
+         ('cailane emily gaspar de lima', '01/03/2003', 'fem', 'lidia gaspar gomes', 'claudomir roberto santos de lima')
+         ('cailane emilly gaspar de lima', '01/03/2003', 'fem', 'lidia gaspar gomes', 'claudomir roberto santos de lima')
+15061388 17670039 0.7194687724113464
+         ('daniel henrique da silva santos', '26/05/2010', 'masc', 'elaine luiz da silva', 'deyvson henrique dos santos')
+         ('daniel henrique da silva santos', '05/09/2010', 'masc', 'maria elizabeth da silva', 'jose manoel da silva santos')
+16014880 14333074 0.9445342
+         ('maria eduarda da silva xavier', '07/08/2009', 'fem', 'veronica maria da silva xavier', 'luiz henrique xavier')
+         ('maria eduarda da silva xavier', '07/09/2009', 'fem', 'patricia cristina da silva xavier', 'thiago arcelino da silva')
+14191440 14094622 0.9910489320755005
+         ('allyne bezerra da silva', '19/02/2008', 'fem', 'maria jose bezerra de oliveira', 'manoel severino da silva filho')
+         ('allyne bezerra da silva', '19/02/2008', 'fem', 'maria jose bezerra de oliveira', 'manoel severino da silva filho')
+14352761 14352834 0.9584524
+         ('raquel alves de lima', '07/11/2008', 'masc', 'risony alves da cunha', 'leonardo alves da cunha')
+         ('raquely alves de lima', '07/11/2008', 'fem', 'risony alves da cunha', 'leonardo alves da cunha')
+12096954 17644038 0.97152925
+         ('kaua vinicius barbosa do nascimento', '27/02/2011', 'masc', 'jolene fabiana barbosa da silva', 'andre calixto do nascimento')
+         ('kaua vinicius barbosa do nascimento', '22/02/2011', 'masc', 'jolene fabiana barbosa de silva', 'andre calixto do nascimento')
+16089510 18117600 0.9889418
+         ('micaeli siqueira do rosario', '30/08/2009', 'fem', 'ana paula vieira de andrade siqueira', 'moises jose do rosario')
+         ('micaely siqueira do rosario', '30/08/2009', 'fem', 'ana paula vieira de andrade siqueira', 'moises jose do rosario')
+18651330 18767184 0.96444684
+         ('jammilly vitoria araujo da silva', '23/02/2013', 'fem', 'kesia cristina vitorino da silva', 'jammeson kennedy araujo do amaral')
+         ('jammily vitoria araujo da silva', '23/02/2013', 'masc', 'kesia cristina vitorino da silva', None)
+13190768 18114121 0.9892391
+         ('millena izabel freitas do monte', '08/12/2009', 'fem', 'evania freitas dos anjos', 'valmir jose do monte')
+         ('millena isabel freitas do monte', '08/12/2009', 'fem', 'evania freitas dos anjos', 'evania freitas dos anjos')
+17794560 18781705 0.72495544
+         ('joao marcelo monteiro de carvalho', '17/11/2007', 'masc', 'ericka cristina monteiro de carvalho', 'jose maciel lauro da silva')
+         ('joao marcelo monteiro de carvalho', '17/09/2007', 'masc', 'ericka cristina monteiro de carvalho', None)
+16674332 17773776 0.8817757964134216
+         ('maria eduarda gomes da silva', '22/08/2011', 'fem', 'risolene gomes da silva', None)
+         ('maria eduarda ramos da silva', '22/08/2011', 'fem', 'janaina ramos de lima', 'edriano olimpio da silva')
+16637399 15062821 0.7002816200256348
+         ('maria eduarda alves da silva', '14/11/2010', 'fem', 'nicoly carla alves da silva', 'carlos antonio da silva')
+         ('maria eduarda gomes da silva', '11/07/2010', 'fem', 'paula patricia da silva', 'fabio gomes da silva')
+17656141 18651593 0.7234073281288147
+         ('carlos eduardo da silva', '04/05/2009', 'masc', 'cintia da silva', 'alex fernando da silva')
+         ('carlos eduardo da silva', '15/03/2009', 'masc', 'vanessa roberta freitas da silva', None)
+10015167 16087496 0.7798599004745483
+         ('carlos eduardo da silva', '05/05/2006', 'masc', 'dyana clis da silva', None)
+         ('carlos eduardo da silva', '27/04/2006', 'masc', 'fernanda maria da conceicao', 'carlos antonio da silva')
+15032019 15032604 0.98490983
+         ('davi gabriel marinho de albuquerque', '15/04/2010', 'masc', 'katia gabriel marinho de albuquerque', 'eduardo marinho de albuquerque')
+         ('daniel gabriel marinho de albuquerque', '15/04/2010', 'masc', 'katia gabriel marinho de albuquerque', 'eduardo marinho de albuquerque')
+09265600 10273719 0.9760056138038635
+         ('caio da costa lins', '02/08/2008', 'masc', 'izabel correia lins', 'leonilson ferreira da costa')
+         ('caique da costa lins', '02/08/2008', 'masc', 'izabel correia lins', 'leonilson ferreira da costa')
+14130963 15632490 0.9220400452613831
+         ('caio gabriel da silva', '29/11/2008', 'masc', 'adriana estevao da silva', None)
+         ('caio gabriel da silva', '27/11/2008', 'masc', 'maria de fatima da silva', 'josiono argemiro da silva')
+17062594 18055354 0.98863924
+         ('evellyn gazielly freire cardoso da silva', '15/01/2011', 'fem', 'olga cardoso da silva', None)
+         ('evellyn gaziely freire cardoso da silva', '15/01/2011', 'fem', 'olga cardoso da silva', None)
+17076900 09309900 0.74458045
+         ('maria clara da silva almeida', '14/04/2009', 'fem', 'renata lucia da silva', None)
+         ('maria kyara da silva almeida', '25/04/2009', 'fem', 'debora da silva', 'andre felipe de almeida')
+16657632 16130235 0.989177
+         ('angelina jullia cassiano tertuliano da silva', '09/11/2011', 'fem', 'alexssandra cassiano da silva', 'jose carlos teruliano da silva junior')
+         ('angelina jullia cassiano tertuliano da silva', '09/11/2011', 'fem', 'alexsandra cassiano da silva', None)
+11432039 18128211 0.9853104948997498
+         ('vinicius jose da silva', '11/06/2010', 'masc', 'sandra maria silva', None)
+         ('vinicius jose da silva', '11/06/2010', 'masc', 'sandra maria da silva', 'sandra maria da silva')
+15682099 15682153 0.9804091
+         ('matheus coutinho dos santos', '20/04/2010', 'masc', 'juliana do carmo coutinho', 'claudio antonio dos santos')
+         ('matias coutinho dos santos', '20/04/2010', 'masc', 'juliana do carmo coutinho', 'claudio antonio dos santos')
+02300966 18741258 0.98960942029953
+         ('lenice bezerra da silva', '13/10/1973', 'fem', 'lenira xavier da silva', None)
+         ('lenice bezerra da silva', '13/10/1973', 'fem', 'lenire xavier da silva', 'ednaldo bezerra pereira')
+15623033 15633934 0.98342913
+         ('raiana paranhos de araujo', '23/02/2010', 'fem', 'vanessa paranhos da silva', 'israel gomes de araujo')
+         ('raiza paranhos de araujo', '23/02/2010', 'fem', 'vanessa paranhos da silva', 'israel gomes de araujo')
+14318326 14318334 0.98157126
+         ('daniel florencio de freitas', '20/10/2009', 'masc', 'maria denize da silva florencio', 'alexsandro jose de freitas')
+         ('davi florencio de freitas', '20/10/2009', 'masc', 'maria denize da silva florencio', 'alexsandro jose de freitas')
+18803792 15644804 0.716697633266449
+         ('pedro henrique pereira da silva', '26/03/2009', 'masc', 'evelania martins da silva', 'edilson pereira da silva')
+         ('pedro henrique pereira da silva', '31/03/2009', 'masc', 'maria da conceicao pereira', 'paulo jose silva do nascimento')
+18102972 17725356 0.71333337
+         ('vinicius ferreira da costa', '22/03/2012', 'masc', 'maria luciana ferreira', 'leonardo alves da costa')
+         ('vinicius ferreira da costa', '04/11/2012', 'masc', 'natalia franco da costa ferreira da graca', 'bruno ferreira da graca')
+17012880 15700143 0.7427427172660828
+         ('thawa henrique da silva', '28/01/2012', 'masc', 'taciana maria da silva', None)
+         ('thayuam henrique da silva', '23/01/2012', 'masc', 'priscila andreia da silva', None)
+13277863 13277880 0.98444074
+         ('thaylane natalya freire de carvalho', '01/12/2008', 'fem', 'erenise maria de farias freire', 'francisco freire de carvalho')
+         ('thayna natalya freire de carvalho', '01/12/2008', 'fem', 'erenise maria de farias freire', 'francisco freire de carvalho')
+10048715 11361000 0.8404719829559326
+         ('ana beatriz maria da silva', '02/06/2005', 'fem', 'izenilda maria da silva', None)
+         ('ana beatriz maria da silva', '30/01/2005', 'fem', 'rosangela maria do nascimento', 'cremildo jose oliveira da silva')
+18053025 15650367 0.98875344
+         ('mauricio macedo do aragao', '25/08/2010', 'masc', 'nathalia raquel vital de macedo', 'abimael do aragao araujo filho')
+         ('mauricio macedo de aragao', '25/08/2010', 'masc', 'nathalia raquel vital de macedo', None)
+14160277 15752771 0.9853888154029846
+         ('arthur gabriel sereno nascimento', '27/04/2009', 'masc', 'jaidete maria sereno', None)
+         ('arthur gabriel sereno nascimento', '30/04/2009', 'masc', 'jaidete maria sereno', 'cicero nascimento santana')
+14160277 15752771 0.9853888154029846
+         ('arthur gabriel sereno nascimento', '27/04/2009', 'masc', 'jaidete maria sereno', None)
+         ('arthur gabriel sereno nascimento', '30/04/2009', 'masc', 'jaidete maria sereno', 'cicero nascimento santana')
+13110055 13110233 0.9829911
+         ('renan silva dos prazeres', '18/07/2006', 'masc', 'maria jose da silva', 'roberval manoel dos prazeres')
+         ('ruan silva dos prazeres', '18/07/2006', 'masc', 'maria jose da silva', 'roberval manoel dos prazeres')
+18803601 18107150 0.98976874
+         ('maykon davyd malhone mendonca da silva', '28/10/2012', 'masc', 'talita cristina malhone mendoca da silva', 'lucas mendonca da silva')
+         ('maykon davyd malhone mendonca da silva', '28/10/2012', 'masc', 'talita cristina malhone mendonca da silva', 'talita cristina malhone mendonca da silv')
+17025753 18128467 0.9819014
+         ('ester moraes de moura carvalho', '23/07/2007', 'fem', 'janderly de moraes carvalho', 'cassio rogerio de moura carvalho')
+         ('rute moraes de moura carvalho', '23/07/2007', 'fem', 'janderly de moraes carvalho', 'cassio rogerio de moraes carvalho')
+18623280 18657192 0.9830352
+         ('nathane gabryela dias dos santos', '09/04/2013', 'fem', 'cosma dias ferreira', 'ivan antero dos santos')
+         ('nathalya gabryela dias dos santos', '09/04/2013', 'fem', 'cosma dias ferreira', 'ivan antero dos santos')
+17750369 18749127 0.9580692
+         ('jorge pericles poroca saturino', '21/03/2013', 'masc', 'ingryd erlaine da silva poroca', 'fabio jose saturino')
+         ('jorge pericles poroca saturnino', '14/03/2013', 'masc', 'ingryd erlaine da silva poroca', 'fabio jose saturnino')
+16009380 15022374 0.9893008
+         ('lucas leonardo teixeira da souza', '11/11/2011', 'masc', 'ana priscila de souza vieira', 'jose leonardo teixeira da silva')
+         ('lucas leonardo teixeira de souza', '11/11/2011', 'masc', 'ana priscila de souza vieira', 'jose leonardo teixeira da silva')
+14026864 16035410 0.7536438703536987
+         ('pedro henrique gomes da silva', '28/09/2011', 'masc', 'silvania alves ferreira da silva', 'bruno gomes da silva')
+         ('pedro henrique alves da silva', '21/09/2011', 'masc', 'edvania maria alves', 'adriano ferreira da silva')
+17706386 18728952 0.97340363
+         ('gabriel henrique dantas farias', '23/01/2012', 'masc', 'danielle wanderley farias', 'geovani dantas da silva')
+         ('gabriel henrique dantas farias', '23/01/2012', 'masc', 'wanderley farias', 'geovani dantas da silva')
+18026303 16605055 0.852703
+         ('maria eduarda mendes da silva', '28/02/2010', 'fem', 'joseane morais da silva', None)
+         ('maria eduarda mendes da silva', '03/06/2010', 'fem', 'layene mendes de lima', 'jeferson oliveira da silva')
+18804705 16802845 0.99076277
+         ('gilberto benedito da silva jr', '03/10/2011', 'masc', 'valquiria dos santos correia', 'gilberto benedito da silva')
+         ('gilberto benedito da silva jr.', '03/10/2011', 'masc', 'valquiria dos santos correia', 'gilberto benedito da silva')
+18689108 18716130 0.9866420030593872
+         ('ruan jose da silva nunes', '14/05/2013', 'masc', 'denise maria nunes', 'renato jose da silva')
+         ('rua jose da silva nunes', '14/05/2013', 'masc', 'denise maria nunes', None)
+17078024 14106990 0.8452512621879578
+         ('mariana vitoria bezerra da silva', '05/02/2009', 'fem', 'angelica bezerra da silva', None)
+         ('maria vitoria bezerra da silva', '05/03/2009', 'fem', 'maria jose silva', None)
+18645283 18645356 0.9857535362243652
+         ('crsllayne victoria lima de silva', '17/05/2012', 'fem', 'keite paula feitosa da silva', 'cleidson severino lima da silva')
+         ('crisllayne victoria lima da silva', '17/05/2012', 'fem', 'keite paula feitosa da silva', 'cleidson severino lima da silva')
+17694310 18666647 0.9896765351295471
+         ('raquely maria da silva', '11/02/2013', 'fem', 'suzai maria de oliveira', 'rubem jose da silva')
+         ('raquely maria da silva', '11/02/2013', 'fem', 'suzay maria de oliveira', None)
+18771025 17800285 0.9867365
+         ('angela priscila do nascimento', '26/12/2007', 'fem', 'priscila jaqueline da silva', 'sergio jose do nascimento junior')
+         ('angela priscila do nasciemnto', '26/12/2007', 'fem', 'priscila jaqueline da silva', 'sergio jose do nascimento junior')
+15781038 15781127 0.9781405
+         ('davi de lima e silva', '08/04/2004', 'masc', 'joseane benicio de lima', 'lucivaldo neves da silva')
+         ('daniel de lima e silva', '08/04/2004', 'masc', 'joseane benicio de lima', 'lucivaldo neves da silva')
+09309349 06136133 0.8295620083808899
+         ('maria eduarda de lima', '28/09/2004', 'fem', 'luciana maria da silva', 'marcio antonio de lima')
+         ('maria eduarda de lima', '10/07/2004', 'fem', 'maria jose da silva', 'edson bernardino de lima')
+15786030 17063485 0.990711
+         ('ana luiza lins neves', '03/05/2010', 'fem', 'rita de cassia lino carneiro neves', 'luiz henrique lins neves')
+         ('ana luiza lins neves', '03/05/2010', 'fem', 'rita de cassia lino carneiro', 'luiz henrique lins neves')
+09003738 09005897 0.9641058
+         ('rafaela celestino de lima silva', '02/09/2008', 'fem', 'ana maria da conceicao de lima', 'robenildo do celestino da silva')
+         ('rafael celestino de lima silva', '02/09/2008', 'masc', 'ana maria da conceicao de lima', 'robenildo celestino da silvva')
+11744952 11744863 0.98735267
+         ('mayconcelo olecram souza da silva', '04/03/2009', 'masc', 'sandra maria pereira da silva', 'marcelo souza da silva')
+         ('marloncelo olecram souza da silva', '04/03/2009', 'masc', 'sandra maria pereira da silva', 'marcelo souza da silva')
+18728839 13253751 0.7732712626457214
+         ('ana beatriz alves da silva', '11/03/2010', 'fem', 'andresa alves de lima', 'jose maria farias da silva')
+         ('ana beatriz gomes da silva', '11/04/2010', 'fem', 'genilda maria da silva', 'djalmir bezerra gomes')
+15744485 18792200 0.9890209
+         ('jheniffer beatriz dos santos ricardo', '07/11/2011', 'fem', 'meridiana maria dos santos', 'angelo ricardo')
+         ('jheniffer beatriz dos santos ricardo', '07/11/2011', 'fem', 'meriadiana maria dos santos', None)
+18025323 15069699 0.7263343
+         ('ana carolina freitas da silva', '16/05/2008', 'fem', 'silvania silva dos santos', 'luis gustavo da silva')
+         ('ana carolina freitas da silva', '13/05/2008', 'fem', 'alcineide freitas da silva', 'jefferson marinho da silva')
+16762630 16762657 0.9890249
+         ('isis patricia barata salomao', '12/12/2007', 'fem', 'giselle patricia barata de lima', 'wagner rodrigo salomao')
+         ('iris patricia barata salomao', '12/12/2007', 'fem', 'giselle patricia barata de lima', 'wagner rodrigo salomao')
+16728955 11627212 0.7704496
+         ('maria eduarda moreira costa', '01/07/2007', 'fem', 'camila adriana batista costa', 'pericles lucas moreira junior')
+         ('maria eduarda pereira costa', '01/03/2007', 'fem', 'marilia pereira da silva', 'eduardo augusto da costa')
+18803652 18745407 0.9879313
+         ('iyasmin itala severiano da silva', '27/08/2006', 'fem', 'salete barbosa do nascimento', 'italo severiano da silva')
+         ('iasmin itala severiano da silva', '27/08/2006', 'fem', 'salete barbosa do nascimento', 'italo severiano da silva')
+18763219 14028662 0.987352
+         ('dandara thallyta de lira melo', '15/02/2012', 'fem', 'luana de lira camelo', 'flavio barros de mello')
+         ('dandara thallyta de lira melo', '15/02/2012', 'fem', 'luana de lira camillo', 'flavio barros de melo')
+18786383 16743911 0.98804164
+         ('gabriela leticia calaca medeiros', '06/01/2013', 'fem', 'natalia medeiros da silva', 'fabio luiz calaca gomes')
+         ('gabriella leticia calaca medeiros', '06/01/2013', 'fem', 'natalia medeiros da silva', 'fabio luiz calaca gomes')
+16080289 16080661 0.98479664
+         ('italo xavier de santana nunes', '23/01/2005', 'masc', 'regiane solange da silva', None)
+         ('iago xavier de santana nunes', '23/01/2005', 'masc', 'regiane solange da silva', None)
+15725995 18784631 0.985633909702301
+         ('joao renan bonifacio de paiva', '13/04/2007', 'masc', 'rita de cassia teixeira bonifacio', 'ricardo de paiva')
+         ('joao renan bonifacio de paiva', '14/04/2007', 'masc', 'rita de cassia teixeira bonifacio', 'ricardo de paiva')
+12001279 12001406 0.9607484
+         ('gabriel maia de santana', '18/12/2006', 'masc', 'marcia cristina da silva maia', 'joselito de santana')
+         ('gabriela maia de santana', '18/12/2006', 'fem', 'marcia cristina da silva maia', 'joselito de santana')
+18629920 18741363 0.99063396
+         ('kayk alex rodrigues da silva', '26/10/2013', 'masc', 'maristela de lucena rodrigues oliveira', 'aluizio feitosa da silva')
+         ('kayk alex rodrigues da silva', '26/10/2013', 'masc', 'maristela de lucena rodrigues', 'aluizio feitosa da silva')
+16007425 16009436 0.9754092
+         ('igor arthur de souza', '29/07/2011', 'masc', 'andreza carla aguiar de souza', None)
+         ('ivson arthur de souza', '29/07/2011', 'masc', 'andreza carla aguiar de souza', None)
+15600637 15600653 0.98479664
+         ('lucas thiago silva de freitas', '20/08/2010', 'masc', 'alciene maria silva', 'wanderson thiago de freitas')
+         ('luan thiago silva de freitas', '20/08/2010', 'masc', 'alciene maria silva', 'wanderson thiago de freitas')
+18136761 18137091 0.98268896
+         ('kauany victoria cruz dos santos', '30/11/2009', 'fem', 'shirley viviane cruz da silva', 'wellington miguel dos santos')
+         ('kalliny victoria cruz dos santos', '30/11/2009', 'fem', 'shirley viviane cruz da silva', None)
+11674890 13307916 0.98506624
+         ('rayra carolina oliveira chateaubriand', '20/07/2004', 'fem', 'dejaina wanderley oliveira', 'fabio jose campos chateaubriand')
+         ('layra caroline oliveira chateaubriand', '20/07/2004', 'fem', 'dejaina wanderley oliveiira', 'fabio jose campos chateaubriand')
+18030289 18036503 0.97465366
+         ('heloisa beatriz dos santos oliveira', '03/07/2017', 'fem', 'wanessa araujo marques dos santos', 'wanessa araujo marques dos santos')
+         ('heloisa beatriz dos santos oliveira', '03/11/2017', 'fem', 'vanessa araujo marques dos santos', None)
+12054860 12054801 0.9864592
+         ('luciana albuquerque carvalho varejao', '09/04/2005', 'fem', 'patricia albuquerque da souza', 'arlindo carvalho varejao')
+         ('lucimara albuquerque carvalho varejao', '09/04/2005', 'fem', 'patricia albuquerque da souza', 'arlindo carvalho varejao')
+17755085 17755093 0.9782007
+         ('isaquiel barbosa da silva', '04/01/2015', 'masc', 'josefa laurinda gomes da silma', None)
+         ('isaque barbosa da silva', '04/01/2015', 'masc', 'josefa laurinda gomes da silva', None)
+01220764 03193497 0.7978590726852417
+         ('maria de fatima da silva', '05/07/1962', 'fem', 'beatriz maria da silva', None)
+         ('maria de fatima da silva', '26/04/1962', 'fem', 'lucila arruda da silva', None)
+17105196 17677165 0.9893008
+         ('esheley jamilly barbosa da silva', '19/03/2013', 'fem', 'janaina maria de santana barbosa', 'valter idelfonso da silva')
+         ('eshiley jamilly barbosa da silva', '19/03/2013', 'fem', 'janaina maria de santana barbosa', 'valter idelfonso da silva')
+18086101 18781942 0.98967654
+         ('ana beatriz gomes pinto', '18/10/2012', 'fem', 'ana gabriela pinto calu', None)
+         ('ana beatriz gomes pinto', '18/10/2012', 'fem', 'ana gabriela pintu calu', None)
+17048494 17049440 0.9831499
+         ('ygor mickael gomes ferreira', '10/08/2016', 'masc', 'mirlene gomes dos reis', None)
+         ('yago mickael gomes ferreira', '10/08/2016', 'masc', 'mirlene gomes dos reis', None)
+18067557 18707980 0.98858786
+         ('thalita sphya da silva santos', '07/05/2013', 'fem', 'elizangela candida da silva', 'valfrido clayton dos santos')
+         ('thalita sphya da silva santos', '07/05/2013', 'fem', 'elisangela candido da silva', 'valfrido clayton dos santos')
+18710972 15655911 0.9883456
+         ('kauanny vitoria gomes rego', '30/11/2010', 'fem', 'casia gomes tiburcio', None)
+         ('kauanny vitoria gomes rego', '30/11/2010', 'fem', 'cassia gomes tiburcio', 'douglas zacarias rego')
+13229419 18723306 0.9906446
+         ('otavio dos santos sousa', '02/10/2007', 'masc', 'sonia regina dos santos sousa', 'ezequiel leoncio de sousa')
+         ('otavio dos santos sousa', '02/10/2007', 'masc', 'sonia regina dos santos', 'ezequiel leoncio de sousa')
+14197855 18723497 0.9832556
+         ('taynna helena da cruz tenorio', '08/02/2008', 'fem', 'joelma da cruz ferreira', 'roberval alfredo tenorio')
+         ('thaynna hellena da cruz tenorio', '08/02/2008', 'fem', 'joelma da cruz ferreira', 'roberval alfredo tenorio')
+16009169 16674480 0.9882543
+         ('michelly alves maciel', '26/12/2006', 'fem', 'marluce alves da silva', 'joao josias maciel')
+         ('micaelly alves maciel', '26/12/2006', 'fem', 'marluce alves da silva', 'joao josias maciel')
+18043143 18045707 0.9726022
+         ('liz lagos balarezo', '03/02/2017', 'fem', 'graciela lagos balarezo', None)
+         ('nina lagos balarezo', '03/02/2017', 'fem', 'graciela lagos balarezo', None)
+09087460 09087508 0.98614264
+         ('john claudio pessoa damasceno', '30/12/2007', 'masc', 'joana mary pessoa de melo', 'claudio barbosa damasceno')
+         ('johnny claudio pessoa damasceno', '30/12/2007', 'masc', 'joana mary pessoa de melo', 'claudio barbosa damasceno')
+14005000 18695850 0.9859906
+         ('kaua gilson calixto da silva', '22/04/2013', 'masc', 'andreza maiara calixto ramos', 'gilson da silva santos filho')
+         ('kaua gilson calixto da silva', '22/04/2013', 'masc', 'andreza mariara calixto', 'gilson da silva santos filho')
+18793495 18059457 0.9764674
+         ('sergio luiz silva lopes de lima', '31/05/2013', 'masc', 'edleusa maria da silva', 'sergio lopes de lima')
+         ('sergio luis silva lopes de lima', '31/05/2013', 'masc', 'edleuza maria de lima', 'sergio lopes de lima')
+18814999 18681123 0.9893008
+         ('benjamin siqueira caldas barbosa', '11/10/2013', 'masc', 'queila angelica siqueira dos santos', None)
+         ('benjamim siqueira caldas barbosa', '11/10/2013', 'masc', 'queila angelica siqueira dos santos', 'max caldas barbosa')
+16123093 18712452 0.98833036
+         ('mateus henrique nascimento da silva', '04/06/2012', 'masc', 'jessica maria do nascimento', 'marcio henrique rocha da silva')
+         ('matheus henrique nascimento da silva', '04/06/2012', 'masc', 'jessica maria do nascimento', 'marcio henrique rocha da silva')
+16006437 16008774 0.9598737
+         ('gabriel dos santos evangelista', '01/02/2012', 'masc', 'maria jose dos santos silva', None)
+         ('gabriella dos santos evangelista', '01/02/2012', 'fem', 'maria jose dos santos silva', None)
+17145058 18773192 0.9853141
+         ('jhulia gabrielly gomes da silva', '04/09/2012', 'fem', 'juliana gomes da silva', None)
+         ('jhulya gabriely gomes da silva', '04/09/2012', 'fem', 'juliana gomes da silva', None)
+13062166 13062301 0.98706806
+         ('nayane fransuely gomes de moura', '29/05/2007', 'fem', 'marinalva gomes de moura', 'jonas una de moura')
+         ('nayara fransuely gomes de moura', '29/05/2007', 'fem', 'marinalva gomes de moura', 'juracy una de moura')
+18718205 11625147 0.9894268
+         ('leticia emmylle da silva', '12/10/2006', 'fem', 'severiana da conceicao silva irma', 'leandro da silva almeida')
+         ('leticia emmylle da silva', '12/10/2006', 'fem', 'severina da conceicao silva irma', 'leandro da silva almeida')
+16076648 18752497 0.990394115447998
+         ('ysabelli sophia silva cassiano', '05/03/2012', 'fem', 'edivania da silva', None)
+         ('ysabelli sophia silva cassiano', '05/03/2012', 'fem', 'edivania da silva cassiano', 'adelson da costa cassiano')
+14147130 14143178 0.9863986
+         ('jhasmim vitoria balbino da silva', '22/05/2013', 'fem', 'eva wilma lira da silva', 'jose jamesson balbino da silva')
+         ('jhasmym vitoria balbino da silva', '22/05/2013', 'fem', 'evawilma lira da silva', None)
+18690572 17022509 0.8714600801467896
+         ('lais beatriz da silva santos', '01/07/2011', 'fem', 'marinete maria da silva', 'luiz carlos dos santos')
+         ('ana beatriz da silva santos', '01/04/2011', 'fem', 'rosa maria da silva', 'jose marcos dos santos')
+16000846 18780547 0.9896094
+         ('pietro roberto leitao de almeida', '21/10/2015', 'masc', 'vanuza leitao da silva', 'roberto gomes de almeida')
+         ('pietro roberto leitao de almeida', '21/10/2015', 'masc', 'vanusa leitao da silva', 'roberto gomes de almeida')
+17713927 17724295 0.9883983
+         ('gilson correia galdino', '29/12/2010', 'masc', 'wiljane maria correia', 'gilson conceicao galdino')
+         ('wilson correia galdino', '29/12/2010', 'masc', 'wiljane maria correia', 'gilson conceicao galdino')
+18631304 18025773 0.8929504752159119
+         ('joao victor oliveira da silva', '03/04/2007', 'masc', 'cinthia oliveira da silva', 'luiz carlos da silva junior')
+         ('joao victor oliveira da silva', '18/03/2007', 'masc', 'jobiana oliveira da silva', None)
+15737152 18084516 0.99104893
+         ('ingrid carla pereira da silva', '07/06/2006', 'fem', 'fernanda carla da silva amorim', 'aldemario pereira da silva junior')
+         ('ingrid carla pereira da silva', '07/06/2006', 'fem', 'fernanda carla da silva amorim', 'aldemario pereira da silva')
+18751741 15102866 0.9896094
+         ('luan felipe fontes da silva', '13/04/2010', 'masc', 'milena fontes da silva', 'joao paulo calizto da silva')
+         ('luan felipe fontes da silva', '13/04/2010', 'masc', 'milene fontes da silva', None)
+18064876 15619648 0.8295107483863831
+         ('ana beatriz da silva', '28/09/2013', 'fem', 'maria eduarda da silva', None)
+         ('ana beatriz da silva', '15/10/2013', 'fem', 'maria irene da silva', None)
+17136601 18609368 0.915755033493042
+         ('ana beatriz da silva', '01/10/2012', 'fem', 'ana carla souza da silva', 'jose miguel da silva neto')
+         ('ana beatriz da silva', '01/09/2012', 'fem', 'claudia caroline moreira da silva', 'severino jorge da silva')
+12100072 16655680 0.99104893
+         ('dennys rafael santana da silva', '01/06/2011', 'masc', 'aline viviane santana dos santos', 'eduardo luiz anselmo da silva')
+         ('dennys rafael santana da silva', '01/06/2011', 'masc', 'aline viviane santana dos santos', 'eduardo luiz anselmo da silva')
+18732003 13322079 0.990476
+         ('alexsandro caua dos santos farias', '05/07/2012', 'masc', 'camila dos santos', 'alexsandro silva de farias')
+         ('alexsandro caua dos santos farias', '05/07/2012', 'masc', 'camila dos santos moraes', 'alexsandro silva de farias')
+18771335 18633005 0.98745793
+         ('sofia ellen santos da cunha', '06/05/2012', 'fem', 'fafaela santos de oliveira', 'deivd edson silva da cunha')
+         ('sofia ellem santos da cunha', '06/05/2012', 'fem', 'rafaela santos de oliveira', 'deivid edson silva da cunha')
+18796834 05368596 0.98936206
+         ('jose augusto silva junior', '27/01/2002', 'masc', 'sueli ramos barbosa', None)
+         ('jose augusto silva junior', '27/01/2002', 'masc', 'suely ramos barbosa', 'jose augusto da silva')
+15814157 17778174 0.9859906
+         ('ray carlos de souza simao', '08/09/2012', 'masc', 'rayane salvinode souza simao', 'carlos de souza ferraz')
+         ('ray carlos de souza simao', '08/09/2012', 'masc', 'rayane salvino de souza', 'carlos de souza ferraz')
+16028155 17023556 0.9879313
+         ('gabriel victor tavares da silva', '23/07/2012', 'masc', 'sandra borges da silva', 'inaldo tavares de albuquerque')
+         ('gabriel viictor tavares da silva', '23/07/2012', 'masc', 'sandra borges da silva', 'inaldo tavares de albuquerque')
+18731830 18734456 0.7371026
+         ('eduardo luiz pereira', '15/02/2007', 'masc', 'clenia mirtes ribeiro pereira', 'alcides luiz pereira neto')
+         ('eduardo luiz pereira', '15/04/2007', 'masc', 'clenia mirtes ribeiro pereira', 'alcides luiz pereira neto')
+18157130 18795781 0.967300295829773
+         ('kauan valentim soares', '31/10/2010', 'masc', 'liliane valentim da silva', 'liliane valentim da silva')
+         ('kaua valentim soares', '31/10/2010', 'masc', 'liliane valentim soares', 'cicero francisco soares')
+17740134 17755190 0.9876303
+         ('laura machado farina', '25/02/2014', 'fem', 'thais machado', 'fernando dos santos farina')
+         ('laura machado farinha', '25/02/2014', 'fem', 'thais machado', 'fernando dos santos farinha')
+08050457 08050465 0.9863362
+         ('flaviano jose francisco da silva', '22/07/2003', 'masc', 'fabia jose da silva', 'jose francisco da silva')
+         ('flavio jose francisco da silva', '22/07/2003', 'masc', 'fabia jose da silva', 'jose francisco da silva')
+16782003 16642937 0.73986375
+         ('yasmim taisa oliveira da silva', '04/04/2010', 'fem', 'tatiane da silva oliveira', 'jean carlos ferreira da silva')
+         ('yasmim rayssa oliveira da silva', '28/03/2010', 'fem', 'maria da conceicao carneiro de oliveira', 'andre jose da silva')
+11674598 11745614 0.9879313111305237
+         ('mariana soares teixeira da silva', '06/10/2006', 'fem', 'zelita teixeira da silva', 'jose marcos soares da silva')
+         ('marina soares teixeira da silva', '06/10/2006', 'fem', 'zelita teixeira da silva', 'jose marcos soares da silva')
+17112095 18729266 0.9899766
+         ('yasmim vitoria da silva goncalves', '02/01/2013', 'fem', 'janeclecia da silva goncalves', 'josue nestor da silva')
+         ('yasmim vitoria da silva goncalves', '02/01/2013', 'fem', 'janiclecia da silva goncalves', None)
+15096769 15097161 0.9872156
+         ('jemerson ruan barbosa dos santos', '15/02/2012', 'masc', 'joselma barbosa da silva', 'sandro gabriel goncalves dos santos')
+         ('jamerson rian barbosa dos santos', '15/02/2012', 'masc', 'joselma barbosa da silva', 'sandro gabriel goncalves dos santos')
+18067034 18068030 0.9824933
+         ('laiane vitoria soares tavares', '08/08/2017', 'fem', 'larissa soares da silva', 'roberto tavares da silva')
+         ('lais vitoria soares tavares', '08/08/2017', 'fem', 'larissa soares da silva', 'roberto tavares da silva')
+17629535 15007642 0.7207334041595459
+         ('pedro henrique silva de oliveira', '09/01/2007', 'masc', 'patricia silva de santana', 'ezequias silva de oliveira')
+         ('pedro henrique da silva oliveira', '09/02/2007', 'masc', 'sueli jose da silva', 'eronildo frutuoso de oliveira')
+15023982 15025020 0.98706806
+         ('marcio vinicius da silva xavier', '01/12/2010', 'masc', 'rosangela maria araujo da silva', 'robison xavier de azevedo silva')
+         ('marcos vinicius da silva xavier', '01/12/2010', 'masc', 'rosangela maria araujo da silva', 'robison xavier de azevedo silva')
+16026543 16036972 0.97750545
+         ('hadassa lins lima gomes', '24/07/2015', 'fem', 'davila brasileiro lins e silva', 'hadassa lins lima gomes')
+         ('rayssa lins lima gomes', '24/07/2015', 'fem', 'davila brasileiro lins e silva', None)
+18728006 18715095 0.9898449
+         ('isabel maciel do nascimento', '11/05/2012', 'fem', 'viviane maciel de oliveira', None)
+         ('isabel maciel do nascimento', '11/05/2012', 'fem', 'viviene maciel de oliveira', 'reinaldo jose do nascimento')
+18030700 18034357 0.95930344
+         ('allan henrique da luz', '11/07/2016', 'masc', 'angelica henrique de oliveira', 'eliel bernardo da luz')
+         ('allana henrique da luz', '11/07/2016', 'fem', 'angelica henrique de oliveira', 'eliel bernardo da luz')
+15676641 16760093 0.9886155
+         ('alex jose martins da silva', '12/03/2011', 'masc', 'daiana martins da silva', 'mirlene martins de andrade')
+         ('alex jose martins da silva', '12/03/2011', 'masc', 'diana martins da silva', None)
+18638228 18123481 0.9878127
+         ('davy cristin dos santos arruda', '26/10/2011', 'masc', 'gloria cristovao dos santos', 'david alves de arruda camara')
+         ('davy cristian dos santos arruda', '26/10/2011', 'masc', 'gloria cristovao dos santos', 'gloria cristovao dos santos')
+18808700 14018098 0.9906446
+         ('rayllan santana da silva', '30/08/2011', 'masc', 'natalia lira de santana silva', 'grigorio jose da silva')
+         ('rayllan santana da silva', '30/08/2011', 'masc', 'natalia lira de santana', 'grigorio jose da silva')
+# duplicate sets
+172
